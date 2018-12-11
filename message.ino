@@ -1,9 +1,6 @@
 #include <Adafruit_Sensor.h>
 #include <ArduinoJson.h>
 
-//#include "AlertMe.h";
-//AlertMe alert;
-
 //uint8_t config_pin = 12;
 
 //String to_email = "rahproject190@gmail.com";
